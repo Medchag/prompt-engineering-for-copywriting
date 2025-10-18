@@ -1,2 +1,20 @@
-# prompt-engineering-for-copywriting
-Free mini-course on prompt engineering for better copywriting — with templates and examples.
+# ✍️ Prompt Engineering for Copywriting (Free Mini-Course)
+
+**Steal my exact prompts** to write stronger hooks, emails, ads, and landing pages with AI — fast.
+
+> ⭐ If this helps, star the repo & share it with a friend.
+
+---
+
+## What You’ll Learn (15–30 minutes)
+- A simple 4-step prompting framework for copy
+- How to feed examples, constraints, and audience intel
+- 20+ copy prompts (hooks, ads, emails, offers, headlines)
+- A repeatable “iterate → critique → improve” loop
+
+---
+
+## The Core Framework (ICEA)
+**I**ntent • **C**ontext • **E**xamples • **A**sks
+
+**Template**
