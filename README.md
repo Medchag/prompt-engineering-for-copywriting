@@ -17,5 +17,6 @@
 ## The Core Framework (ICEA)
 **Intent • Context • Examples • Ask**
 
+```markdown
+**Prompt Template**
 
-**Template**
