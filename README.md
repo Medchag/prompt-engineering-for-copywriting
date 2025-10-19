@@ -17,6 +17,12 @@
 ## The Core Framework (ICEA)
 **Intent • Context • Examples • Ask**
 
-```markdown
 **Prompt Template**
+```text
+You are a copywriter…
+Goal: [intent]
+Audience: [context]
+Return 3 variations.
+```
+
 
