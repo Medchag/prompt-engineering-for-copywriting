@@ -188,9 +188,3 @@ Testimonials:
 - “[testimonial 2]”
 - “[testimonial 3]”
 Return a table: Proof Bullet | Emotion Trigger.
-
----
-
-✅ **To add them:**
-1. In your repo → **Add file → Create new file.**  
-2. In the “File name” box type, for example:
