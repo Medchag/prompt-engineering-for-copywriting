@@ -15,6 +15,7 @@
 ---
 
 ## The Core Framework (ICEA)
-**I**ntent • **C**ontext • **E**xamples • **A**sks
+**Intent • Context • Examples • Ask**
+
 
 **Template**
