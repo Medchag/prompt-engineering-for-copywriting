@@ -17,12 +17,7 @@
 ## The Core Framework (ICEA)
 **Intent • Context • Examples • Ask**
 
-**Prompt Template**
-```text
-You are a copywriter…
-Goal: [intent]
-Audience: [context]
-Return 3 variations.
-```
+**Quick links:** [Prompts](./prompts) • [Templates](./templates) • [Swipes](./swipes)
 
+**How to use:** Open any prompt, paste it into your AI tool, replace [brackets] with your details, and ask for 3 variations + a self-critique → improved rewrite.
 
