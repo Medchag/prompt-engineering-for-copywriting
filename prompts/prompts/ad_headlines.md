@@ -1,7 +1,5 @@
 # 🧲 Ad Headlines Prompt
 
-**Goal:** Generate 10 attention-grabbing ad headlines.
-
 ````markdown
 You are a paid ads copywriter.
 Write 10 ad headlines (8–12 words max) for [product/offer].
